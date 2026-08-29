@@ -3,7 +3,7 @@
 	Demonstrates all components including Sub-Tabs.
 ]]
 
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/gss6506507-pixel/veahzlib/refs/heads/main/VaehzUI/VaehzUI/src/VaehzUI.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/gss6506507-pixel/lib-v2/refs/heads/main/VaehzUI.lua"))()
 
 -- Create Window
 local Window = Library:CreateWindow({
